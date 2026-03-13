@@ -1,0 +1,41 @@
+body {
+    background-color: #dcd6f3;
+}
+.home {
+    background-color: #fffaf0;
+    width: 75%;
+    margin: 40px;
+    padding: 25px;
+}
+.title {
+    text-align: center;
+    background-color: #89d6fa;
+    color: white;
+    padding: 12px;
+}
+.about {
+    color: #2e7d32;
+}
+.services {
+    color: #c2185b;
+}
+.features {
+    color: #6a1b9a;
+}
+.benefits {
+    color: #ef6c00;
+}
+.mission {
+    color: #00897b;
+}
+.vision {
+    color: #ad1457;
+}
+.home ul {
+    background-color: #fbe9e7;
+    padding: 15px;
+}
+
+.home li {
+    color: #4e342e;
+}

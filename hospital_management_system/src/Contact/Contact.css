@@ -1,0 +1,38 @@
+.contact {
+  width: 800px;
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+.contact h1 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+.contact h2 {
+  color: #34495e;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.contact p {
+  color: #585656;
+  margin-bottom: 10px;
+}
+.form input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #d7d5d5;
+}
+.form text {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #cccccc;
+}
+.form button {
+  background-color: #3498db;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+}
